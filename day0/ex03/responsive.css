@@ -1,0 +1,78 @@
+
+p {
+	margin: 3px;
+    font-size: 1vw;
+}
+
+p.width {
+	text-align: right;
+}
+
+td {
+	width: 1%;
+}
+
+h2 {
+	text-align: center;
+    font-size: 1.5vw;
+    margin: 5px;
+}
+
+td.red {
+	background: #A12312;
+}
+
+td.indigo {
+	background: #0090ff;
+}
+
+td.brown {
+	background: #BC987E;
+}
+
+td.lightGrass {
+	background: #57A639;
+}
+
+td.limon {
+	background: #DC9D00;
+}
+
+td.darkGrass {
+	background: #C6A664;
+}
+
+td.Al {
+	background: #646B63;
+}
+
+td.Sc {
+	background: #606E8C;
+}
+
+td.Lu {
+	background: #955F20;
+}
+
+td.Lr {
+	background: #734222;
+}
+
+td.Mt {
+	background: #909090;
+}
+
+td.H {
+	background: #E6D690;
+}
+
+img {
+	width: 125px;
+}
+
+h2.Men {
+	text-align: left;
+}
+.Men1 {
+	width: 10%;
+}

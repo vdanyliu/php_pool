@@ -1,0 +1,103 @@
+header {
+	background-color: #909090;
+	height: 135px;
+	margin: 15px auto;
+	width: 1420px;
+	border-radius: 8px;
+	box-shadow: 8px 8px 8px black;
+}
+.day_of_the_42 {
+	float: left;
+	margin: 10px;
+	height: 115px;
+}
+.reload {
+	height: 15px;
+	float: right;
+	margin: 10px 10px auto auto;
+}
+.close {
+	height: 15px;
+	float: right;
+	margin: 115px -15px 15px auto;
+}
+.loupe {
+	float: right;
+	margin: 20px 0px 20px 20px;
+	width: 225px;
+	height: 130px;
+}
+.content {
+	margin: auto;
+	width: 1420px;
+}
+.block1 {
+	width: 140px;
+	height: 420px;
+	background-color: #909090;
+	float: left;
+	border-radius: 8px;
+	box-shadow: 8px 8px 8px black;
+	margin-left: 35px;
+}
+.block2 {
+	width: 140px;
+	height: 420px;
+	background-color: #909090;
+	float: right;
+	clear: right;
+	margin-top: -20px;
+	border-radius: 8px;
+	box-shadow: 8px 8px 8px black;
+	margin-right: 35px;
+}
+.cluster {
+	align-self: center;
+	width: 1025px;
+	height: 580px;
+	background-color: #909090;
+	margin: auto;
+	border-radius: 8px;
+	box-shadow: 8px 8px 8px black;
+}
+.pic {
+	margin: 10px auto;
+	width: 70px;
+	display: block;
+}
+.picb {
+	margin: 10px 10px;
+	height: 70px;
+	background-image: url("resources/brick.jpg");
+}
+.clusterimg {
+	height: 570px;
+	margin-top: -14px;
+	margin-left: 5px;
+	align-self: center;
+}
+.green {
+	width: 520px;
+	height: 170px;
+	background-color: #a5fc96;
+	border-radius: 8px;
+	box-shadow: 8px 8px 8px black;
+	margin-top: -80px;
+	margin-left: -70px;
+	position: absolute;
+	padding: 0px 0px 0px 15px;
+	font-size: 120%;
+}
+.text {
+	font-size: 200%;
+}
+.text_input {
+	width: 80%;
+}
+.text_shadow {
+	text-shadow: 6px 4px 4px red;
+}
+.bord {
+	border: 6px solid red;
+	border-radius: 6px;
+}
